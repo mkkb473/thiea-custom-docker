@@ -3,7 +3,7 @@
   "theia": {
       "frontend": {
           "config": {
-              "applicationName": "HeyWhale CloudIDE",
+              "applicationName": "Modelwhale Cloud IDE",
               "preferences": {
                   "files.enableTrash": false
               }
